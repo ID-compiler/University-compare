@@ -40,6 +40,12 @@ This project is designed as part of the **Full Stack Developer Internship Task**
    ```bash
    http://localhost:3000
 ---
+##  Preview
+
+![University Compare Tool Preview](./university-compare-preview.png)
+
+
+---
 ##  Author
 
 **Ichha Dwivedi**  
